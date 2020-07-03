@@ -1,0 +1,7 @@
+main: io.github.thesaltchip.Doctor.Main
+name: Doctor
+version: 1.0
+author: TheSaltChip
+
+commands:
+  Doctor:
