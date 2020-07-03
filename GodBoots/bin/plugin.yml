@@ -1,0 +1,8 @@
+main: io.github.thesaltchip.GodBoots.Main
+name: GodBoots
+version: 1.0
+author: TheSaltChip
+api-version: 1.13
+
+commands:
+  GodBoots:

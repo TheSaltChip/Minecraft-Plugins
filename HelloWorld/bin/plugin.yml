@@ -1,0 +1,7 @@
+main: io.github.thesaltchip.HelloWorld.Main
+name: Hello
+version: 1.0
+author: TheSaltChip
+
+commands:
+  Hello:

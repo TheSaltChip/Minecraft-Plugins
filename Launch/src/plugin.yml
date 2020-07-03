@@ -1,0 +1,8 @@
+main: io.github.thesaltchip.Launch.Main
+name: Launch
+author: TheSaltChip
+version: 1.0
+
+commands:
+  Launch:
+    aliases: lch
