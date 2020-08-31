@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Doctor/Doctor.iml" filepath="$PROJECT_DIR$/Doctor/Doctor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GodBoots/GodBoots.iml" filepath="$PROJECT_DIR$/GodBoots/GodBoots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Launch/Launch.iml" filepath="$PROJECT_DIR$/Launch/Launch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projects.iml" filepath="$PROJECT_DIR$/.idea/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StarTool/StarTool.iml" filepath="$PROJECT_DIR$/StarTool/StarTool.iml" />
+    </modules>
+  </component>
+</project>
