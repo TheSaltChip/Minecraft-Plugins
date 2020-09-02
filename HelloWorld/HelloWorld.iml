@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="EclipseModuleManager">
-    <libelement value="file://G:/Games/Minecraft/Spigot/JAR/spigot-1.16.1.jar" />
+    <libelement value="file://$MODULE_DIR$/../../../Games/Minecraft/Spigot/JAR/spigot-1.16.1.jar" />
     <src_description expected_position="1">
       <src_folder value="file://$MODULE_DIR$/src" expected_position="1" />
     </src_description>
@@ -14,13 +14,15 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="spigot-1.16.1.jar">
+    <orderEntry type="module-library" exported="">
+      <library>
         <CLASSES>
-          <root url="file://G:/Games/Minecraft/Spigot/JAR/spigot-1.16.1.jar" />
+          <root url="jar://$MODULE_DIR$/../../../Games/Minecraft/Spigot/JAR/spigot-1.16.1.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../../Games/Minecraft/Spigot/JAR/spigot-1.16.1.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
   </component>

@@ -24,7 +24,7 @@ public class Heal implements CommandExecutor {
 			Player player = (Player) sender;
 			
 			if(!player.hasPermission("doctor.use")) {
-				player.sendMessage(ChatColor.RED + "You cannpt use this command!");
+				player.sendMessage(ChatColor.RED + "You cannot use this command!");
 				return true;
 			}
 			
